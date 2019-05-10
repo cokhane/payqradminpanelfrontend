@@ -1,0 +1,11 @@
+.footer-component{
+  color: #67757c;
+  box-sizing: border-box;
+  border-top: 1px solid rgba(255,255,255,.1);
+}
+
+.footer-text{
+  margin:0px auto;
+  padding:10px 0px;
+  text-align: center;
+}

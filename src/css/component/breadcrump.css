@@ -1,0 +1,30 @@
+.breadcrump-container{
+  width:100%;
+  height: 47px;
+}
+
+.breadcrump-header{
+  width: 100%;
+  height: 40px;
+  background-color: #D3D3D3;
+  /* position: absolute;
+  left: 249px;
+  padding:10px; */
+}
+
+.breadcrump-flex{
+  padding: 10px;
+}
+
+.breadcrump-text{
+  color: #fff;
+    position: relative;
+    top: 20px;
+    left: 16px;
+    font-size: 35px;
+}
+
+.breadcrump-header-text{
+  color:#fff;
+  margin: 0px 0px 0px 10px;
+}

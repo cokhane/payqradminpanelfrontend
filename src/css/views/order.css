@@ -1,0 +1,32 @@
+.order-component{
+  color:#fff;
+  padding: 10px;
+  min-width: 1200px;
+  margin-top: 60px;
+}
+
+.order-form input{
+  width: 233px;
+  height: 38px;
+  min-width: 0 !important;
+}
+
+.user-form select{
+  width: 238px;
+  height: 38px;
+}
+
+.order-form label{
+  padding: 6px;
+  margin-top:10px;
+}
+
+.order-btn-container{
+  margin-top:30px;
+}
+
+/* TABLE */
+
+.order-table{
+  margin-top:20px;
+}

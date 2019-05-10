@@ -1,0 +1,34 @@
+
+.defaultlayout-container{
+  display: block;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  background: #383f48;
+  position: relative;
+
+}
+
+/* ----- DYNAMIC -----  */
+
+.defaultlayout-dynamic{
+  position: relative;
+  height: calc(100% - 50px);
+  min-height: calc(100% - 50px);
+  overflow-y:auto;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+/* ----- HEADER -----  */
+
+
+.defaultlayout-dynamic-parent{
+  min-height:calc(100% - 50px);
+}
+/* ----- HEADER -----  */
+.defaultlayout-footer{
+  position: relative;
+  box-sizing: border-box;
+  width: 100% ;
+}

@@ -1,0 +1,31 @@
+.loginlogs-datatable{
+  margin-top: 40px;
+}
+
+.loginlogs-datatable .dataTables_length{
+  color:#fff;
+}
+
+.loginlogs-datatable .dataTables_length select{
+  color:#000;
+}
+
+.loginlogs-datatable .dataTables_filter{
+  color:#fff;
+}
+
+.loginlogs-datatable .dataTables_filter input{
+  color:#000;
+}
+
+.loginlogs-datatable thead{
+  color:#fff;
+}
+
+.loginlogs-datatable .dataTables_info{
+  color:#fff;
+}
+
+.loginlogs-datatable thead tr th:nth-child(7){
+  /* display:none; */
+}

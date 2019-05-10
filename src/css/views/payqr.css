@@ -1,0 +1,60 @@
+.payqr-component{
+  color:#fff;
+  margin-top: 100px;
+}
+.payqr-container{
+  width: 100%;
+}
+
+.payqr-table tbody{
+  color:#000;
+}
+
+.payqr-table .dataTables_length{
+  color:#fff;
+
+}
+.payqr-table .dataTables_length select{
+  color:#000;
+}
+
+.payqr-table .dataTables_info{
+  color:#fff;
+}
+
+.payqr-table .dataTables_info select{
+
+}
+
+/* ----- SELECT -----  */
+
+
+.payqr-table .DataTables_Table_6_length{
+  color:#000;
+
+}
+
+/* ----- SEARCH -----  */
+.payqr-table .dataTables_filter label:first-child{
+  color:#fff;
+}
+.payqr-table .dataTables_filter label input{
+  color:#000;
+}
+
+
+
+.payqr-table tbody tr.odd>.sorting_1, table.dataTable.payqr-column.stripe tbody tr.odd>.sorting_1{
+  background-color: #fff !important;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+  color: #fff !important;
+}
+
+/* ---- NOT DATA TABLES ----  */
+
+
+.payqr-btn-container{
+  margin: 0 0 30px 0;
+}

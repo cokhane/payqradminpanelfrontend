@@ -1,0 +1,139 @@
+.userprofile-component{
+  color: #464646;
+  margin-top:70px;
+}
+
+.user-card-profile{
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0,0,0,.125);
+  margin-left:7px;
+  align-items: flex-start !important;
+  height: 447px;
+  position: relative;
+}
+
+
+
+.user-card-body{
+  position: relative;
+  top: -172px;
+  height: calc(100% - 128px);
+  background-color: #fff;
+}
+
+.user-card-body .user-avatar img{
+  height: 120px;
+  width: 120px;
+  position: relative;
+  top: -60px;
+  border-radius: 65px;
+  background: #fff;
+
+}
+
+/* ------ USER PROFILE ------  */
+
+
+.user-card{
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0,0,0,.125);
+  padding:20px;
+  margin-left:40px;
+}
+
+.user-form{
+  padding: 20px;
+}
+
+.user-form input{
+  min-width: 300px;
+}
+
+
+/* ----- LOGO -----  */
+
+.user-logo{
+  top: -15px;
+  width:60px;
+  position: relative;
+  margin-left:10px;
+}
+
+.user-card-name{
+  text-decoration: underline;
+}
+.user-card-text{
+  position: relative;
+  top: -25px;
+}
+
+.user-logo1{
+  top: -15px;
+  width:45px;
+  position: relative;
+    margin-left:10px;
+}
+
+.user-logo2{
+  top: -15px;
+  width:35px;
+  position: relative;
+  margin-left:10px;
+}
+
+
+/* ----- USER CARD -----  */
+
+.user-component{
+  padding: 10px;
+}
+
+
+
+.user-form input{
+  width: 233px;
+  height: 38px;
+  min-width: 0 !important;
+
+}
+
+.user-form select{
+  width: 238px;
+  height: 38px;
+}
+
+.user-form label{
+  padding: 5px;
+}
+
+.user-form .user-form-container{
+  margin-bottom: 20px;
+}
+
+.input-group-password{
+  position: absolute;
+}
+
+.input-change-passowrd{
+  font-size: 9px;
+  border: 1px solid grey;
+  padding: 3px;
+  border-radius: 20px;
+  margin-top: 3px;
+  margin-left: 195px;
+  cursor: pointer;
+}
+
+.input-group-password-icon{
+    position: relative;
+    top: -28px;
+    left: 436px;
+}
+
+
+.invisbile-block{
+  height: 10px;
+  width: 300px;
+}

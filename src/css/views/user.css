@@ -1,0 +1,102 @@
+.user-component{
+  padding: 10px;
+  color:#fff;
+
+}
+
+
+
+.user-form input{
+  width: 233px;
+  height: 38px;
+  min-width: 0 !important;
+}
+
+.user-form select{
+  width: 238px;
+  height: 38px;
+}
+
+.user-form label{
+  padding: 5px;
+}
+
+.user-form .user-form-container{
+  margin-bottom: 20px;
+}
+
+.input-group-password{
+  position: absolute;
+}
+
+.input-group-password-icon{
+  position: relative;
+  top: -28px;
+  left: 206px;
+}
+
+
+
+/* ----- TABLE -----  */
+
+.user-datatable{
+  margin-top: 20px;
+}
+
+.user-datatable .dataTables_length{
+  color:#fff;
+}
+
+.user-datatable .dataTables_length select{
+  color:#000;
+}
+
+.user-datatable .dataTables_filter{
+  color:#fff;
+}
+
+.user-datatable .dataTables_filter input{
+  color:#000;
+}
+
+.user-datatable thead{
+  color:#fff;
+}
+
+.user-datatable .dataTables_info{
+  color:#fff;
+}
+
+.user-datatable thead tr th:nth-child(7){
+  /* display:none; */
+}
+
+.input-group-password{
+  position: absolute;
+}
+
+.input-change-passowrd{
+  font-size: 9px;
+  border: 1px solid grey;
+  padding: 3px;
+  border-radius: 20px;
+  margin-top: 3px;
+  margin-left: 195px;
+  cursor: pointer;
+}
+
+.input-group-password-icon{
+    position: relative;
+    top: -28px;
+    left: 436px;
+}
+
+.invisible-div{
+  height: 10px;
+  width:320px;
+}
+
+
+.user-view-span{
+  color:#0a9cff;
+}

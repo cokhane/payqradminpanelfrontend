@@ -1,0 +1,141 @@
+
+
+
+.sidenav-container {
+  height: 100vh;
+  top: 0;
+  left: 0;
+  background-color: #242a33;
+  overflow-x: hidden;
+  float:left;
+  min-width: 229px;
+}
+
+/* ------ LOGO ------ */
+
+.logo-container h6{
+  color:#fff;
+  display: inline;
+}
+.logo-content {
+  margin: 0 auto;
+  width: 50%;
+}
+
+.logo{
+  padding:15px 0 15px 0px;
+}
+
+.logo img{
+  height: 23px;
+  margin-left: -25px;
+}
+
+/* ------ USER ------ */
+
+.user-profile-container{
+  padding: 20px;
+}
+
+.user-profile-container h6{
+  color:#fff;
+  margin-top:10px;
+}
+
+.user-profile-img img{
+  height: 70px;
+  width: 70px;
+  position: relative;
+  border-radius: 65px;
+  background: #fff;
+}
+
+.user-profile-role{
+  color:#fff;
+  margin-bottom: 5px
+}
+
+.user-profile-role span{
+  text-decoration: underline;
+}
+
+.user-icons{
+  color:#fff;
+  font-size: 18px;
+  width: 50%;
+}
+
+.user-icon-style{
+  cursor: pointer;
+}
+
+
+
+/* ------ SIDEBAR MODULE  ------  */
+
+.sidenav-module-container{
+}
+
+/* ------ SIDEBAR CONTENT ------  */
+
+.sidenav-content-none {
+  display: none;
+}
+
+.sidenav-content {
+  padding: 8px 20px 8px 20px;
+  font-size: 15px;
+  color: #fff;
+  display: block;
+  cursor: pointer
+
+}
+
+.selsectedSidebar{
+  padding: 8px 20px 8px 20px;
+  font-size: 15px;
+  display: block;
+  cursor: pointer;
+  opacity: 0.8;
+  background-color: #000;
+  color: #f1f1f1;
+}
+
+
+
+.sidenav-content:hover{
+  color:#fff;
+  text-decoration: underline;
+}
+
+
+.sidenav-icon {
+  padding: 0 30px 0 0px;
+  display:inline;
+}
+
+.sidenav-text {
+  display:inline;
+}
+
+.sidenav-icon-child{
+  position: absolute;
+}
+
+.edit-user-image-container{
+  position: absolute;
+}
+
+.edit-user-image{
+  position: relative;
+  top: -17px;
+  left: 7px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+
+
+.user-sidebar-role{
+  font-size: 13px
+}

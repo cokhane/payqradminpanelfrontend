@@ -1,0 +1,27 @@
+.block-user-datatable{
+  margin-top: 40px;
+}
+
+.block-user-datatable .dataTables_length{
+  color:#fff;
+}
+
+.block-user-datatable .dataTables_length select{
+  color:#000;
+}
+
+.block-user-datatable .dataTables_filter{
+  color:#fff;
+}
+
+.block-user-datatable .dataTables_filter input{
+  color:#000;
+}
+
+.block-user-datatable thead{
+  color:#fff;
+}
+
+.block-user-datatable .dataTables_info{
+  color:#fff;
+}
